@@ -2,3 +2,6 @@ pandas==2.2.2
 seaborn==0.13.2
 matplotlib==3.9.1
 kagglehub==0.3.6
+dotenv==0.9.9
+langchain-core==0.3.44
+langchain-groq==0.2.5
